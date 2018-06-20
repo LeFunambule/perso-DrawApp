@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6e1f038e0cf103bd8dc38558089e13fc"
+build_time: [1516881913, 520139000]
+inputs:
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/Enum.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesome.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeBarButtonItem.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeImageRepresentable.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeImageView.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeSegmentedControl.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeStateRequirement.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeTabBarItem.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeTextRepresentable.swift": [1516787486, 0]
+  "/Users/etudiant23/Worspace/DrawApp/Pods/FontAwesome.swift/FontAwesome/FontAwesomeView.swift": [1516787486, 0]

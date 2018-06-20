@@ -1,0 +1,105 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FontAwesomeTextRepresentable"
+provides-nominal:
+- "17FontAwesome_swift0aB17TextRepresentableP"
+provides-member:
+- ["17FontAwesome_swift0aB17TextRepresentableP", ""]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "updateText"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "updateFontAttributes"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "CGFloat"
+- "FontAwesomeStateRequirement"
+- "FontAwesomeTextRepresentable"
+- "UIControlState"
+- "UIFont"
+- "Void"
+- !private "type"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "fontAwesome"]
+- !private ["s28CustomDebugStringConvertibleP", "fontAwesome"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "fontAwesome"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "fontAwesome"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "Bool"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "CGFloat"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "UIControlState"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "UIFont"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "Void"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "isTextCSSCode"]
+- !private ["17FontAwesome_swift0aB16StateRequirementP", "supportedStates"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "textSize"]
+- !private ["17FontAwesome_swift0aB16StateRequirementP", "type"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "updateFontAttributes"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "updateText"]
+- ["17FontAwesome_swift0aB16StateRequirementP", ""]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "Bool"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "CGFloat"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "UIControlState"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "UIFont"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "Void"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "isTextCSSCode"]
+- !private ["17FontAwesome_swift0aB17TextRepresentableP", "supportedStates"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "textSize"]
+- !private ["17FontAwesome_swift0aB17TextRepresentableP", "type"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "updateFontAttributes"]
+- ["17FontAwesome_swift0aB17TextRepresentableP", "updateText"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "fontAwesome"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So9NSCopyingP", "fontAwesome"]
+- !private ["So8NSObjectC", "fontAwesome"]
+- !private ["So16NSObjectProtocolP", "fontAwesome"]
+- !private ["So6UIFontC", "fontAwesome"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fontAwesome"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "17FontAwesome_swift0aB16StateRequirementP"
+- "17FontAwesome_swift0aB17TextRepresentableP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So6UIFontC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/etudiant23/Worspace/DrawApp/Pods/Target Support Files/FontAwesome.swift/FontAwesome.swift-umbrella.h"
+- "/Users/etudiant23/Worspace/DrawApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FontAwesome.swift.build/unextended-module.modulemap"
+interface-hash: "72abe5b95b40351fccf1155a6a2c9bc3"

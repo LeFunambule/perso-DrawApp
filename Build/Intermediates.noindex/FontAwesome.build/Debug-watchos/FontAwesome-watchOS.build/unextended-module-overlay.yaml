@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/etudiant23/Worspace/DrawApp/Build/Products/Debug-watchos/FontAwesome.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/etudiant23/Worspace/DrawApp/Build/Intermediates.noindex/FontAwesome.build/Debug-watchos/FontAwesome-watchOS.build/unextended-module.modulemap',
+    }]
+  }]
+}

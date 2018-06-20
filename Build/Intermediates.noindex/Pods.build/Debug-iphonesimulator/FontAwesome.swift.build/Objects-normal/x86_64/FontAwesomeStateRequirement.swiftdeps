@@ -1,0 +1,35 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FontAwesomeStateRequirement"
+provides-nominal:
+- "17FontAwesome_swift0aB16StateRequirementP"
+provides-member:
+- ["17FontAwesome_swift0aB16StateRequirementP", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "FontAwesomeStateRequirement"
+- "UIControlState"
+depends-member:
+- ["17FontAwesome_swift0aB16StateRequirementP", "UIControlState"]
+- ["17FontAwesome_swift0aB16StateRequirementP", "supportedStates"]
+depends-nominal:
+- "17FontAwesome_swift0aB16StateRequirementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/etudiant23/Worspace/DrawApp/Pods/Target Support Files/FontAwesome.swift/FontAwesome.swift-umbrella.h"
+- "/Users/etudiant23/Worspace/DrawApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FontAwesome.swift.build/unextended-module.modulemap"
+interface-hash: "7fe10455dd2e05df5d3b7b0ed4121944"

@@ -1,0 +1,177 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FontAwesomeImageRepresentable"
+provides-nominal:
+- "17FontAwesome_swift0aB18ImageRepresentableP"
+provides-member:
+- ["17FontAwesome_swift0aB18ImageRepresentableP", ""]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "createImages"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "/"
+- !private "??"
+- "AnyObject"
+- "CGFloat"
+- !private "CGSize"
+- !private "FontAwesomeConfig"
+- "FontAwesomeImageRepresentable"
+- "Int"
+- "String"
+- "UIColor"
+- "UIImage"
+- "Void"
+depends-member:
+- !private ["Sa", "enumerated"]
+- !private ["s23BidirectionalCollectionP", "enumerated"]
+- !private ["SC6CGSizeV", "init"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "clear"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "fontAwesomeIcon"]
+- !private ["s10CollectionP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "clear"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "fontAwesomeIcon"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "clear"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "fontAwesomeIcon"]
+- !private ["s9DecodableP", "enumerated"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "enumerated"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "black"]
+- !private ["s9EquatableP", "clear"]
+- !private ["s9EquatableP", "fontAwesomeIcon"]
+- !private ["s9EquatableP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["17FontAwesome_swift0aB6ConfigV", "fontAspectRatio"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "CGFloat"]
+- !private ["17FontAwesome_swift0aB18ImageRepresentableP", "CGSize"]
+- !private ["17FontAwesome_swift0aB18ImageRepresentableP", "FontAwesomeConfig"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "ImageConfig"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "Int"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "String"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "UIColor"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "UIImage"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "Void"]
+- !private ["17FontAwesome_swift0aB18ImageRepresentableP", "createImage"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "createImages"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "imageConfigs"]
+- !private ["17FontAwesome_swift0aB18ImageRepresentableP", "imageSizeForAspectRatio"]
+- ["17FontAwesome_swift0aB18ImageRepresentableP", "imageWidth"]
+- !private ["s8HashableP", "black"]
+- !private ["s8HashableP", "clear"]
+- !private ["s8HashableP", "fontAwesomeIcon"]
+- !private ["s17MutableCollectionP", "enumerated"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "clear"]
+- !private ["So8NSCodingP", "fontAwesomeIcon"]
+- !private ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "clear"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "clear"]
+- !private ["So21NSItemProviderReadingP", "fontAwesomeIcon"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "clear"]
+- !private ["So21NSItemProviderWritingP", "fontAwesomeIcon"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "clear"]
+- !private ["So8NSObjectC", "fontAwesomeIcon"]
+- !private ["So16NSObjectProtocolP", "black"]
+- !private ["So16NSObjectProtocolP", "clear"]
+- !private ["So16NSObjectProtocolP", "fontAwesomeIcon"]
+- !private ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "clear"]
+- !private ["So14NSSecureCodingP", "fontAwesomeIcon"]
+- !private ["s22RandomAccessCollectionP", "enumerated"]
+- !private ["s26RangeReplaceableCollectionP", "enumerated"]
+- !private ["s8SequenceP", "enumerated"]
+- !private ["So29UIAccessibilityIdentificationP", "fontAwesomeIcon"]
+- !private ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "clear"]
+- !private ["So7UIImageC", "fontAwesomeIcon"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "fontAwesomeIcon"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s23_BidirectionalIndexableP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "clear"]
+- !private ["s26_ExpressibleByImageLiteralP", "fontAwesomeIcon"]
+- !private ["s10_IndexableP", "enumerated"]
+- !private ["s14_IndexableBaseP", "enumerated"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fontAwesomeIcon"]
+- !private ["s17_MutableIndexableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "enumerated"]
+- !private ["s26_RangeReplaceableIndexableP", "enumerated"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "SC6CGSizeV"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "17FontAwesome_swift0aB6ConfigV"
+- "17FontAwesome_swift0aB18ImageRepresentableP"
+- !private "s8HashableP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIColorC"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/etudiant23/Worspace/DrawApp/Pods/Target Support Files/FontAwesome.swift/FontAwesome.swift-umbrella.h"
+- "/Users/etudiant23/Worspace/DrawApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FontAwesome.swift.build/unextended-module.modulemap"
+interface-hash: "6d4fdf563253b749590db6c4c407fa46"
